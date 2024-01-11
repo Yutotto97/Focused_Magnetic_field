@@ -9,6 +9,7 @@ The program models the magnetic flux of a group of solenoids. I did some simulat
 I designed a partial torus using several solenoids displaced strategically. The simulation of one solenoid’s magnetic flux has been inspired from D. Cebron’s work.
 
 Here are the parameters that can be changed:
+
 *a: Solenoid radius
 
 *L: Solenoid length
