@@ -1,4 +1,4 @@
-# My project using Matlab
+# Project using Matlab
 
 * Date : 12/2020
 * Done in : 2 weeks
