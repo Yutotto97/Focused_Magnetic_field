@@ -10,13 +10,13 @@ I designed a partial torus using several solenoids displaced strategically. The 
 
 Here are the parameters that can be changed:
 
-*a: Solenoid radius
+* a: Solenoid radius
 
-*L: Solenoid length
+* L: Solenoid length
 
-*Br: Residual field = field in infinite solenoid (mu*n*I)
+* Br: Residual field = field in infinite solenoid (mu*n*I)
 
-*Theta: Angle between each solenoid
+* Theta: Angle between each solenoid
 
 ---
 Here are some results I got with the simulation:
